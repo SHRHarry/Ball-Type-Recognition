@@ -27,9 +27,8 @@ python video_data_preprocessing.py
 python video_data_delete_zero.py
 ```
 
-## Training workflow
+## Training Workflow
 ![Training](fig/training.png)
-
 ### Pre-training
 
 ```sh
@@ -42,9 +41,8 @@ scripts\mvd_vit_small_from_vit_base_teacher_epoch_400\pretrain_mvd_small_on_cust
 scripts\mvd_vit_small_from_vit_base_teacher_epoch_400\finetune_on_custom.bat
 ```
 
-## Inference workflow
+## Inference Workflow
 ![Training](fig/inference.png)
-
 ### Inference
 
 ```sh
