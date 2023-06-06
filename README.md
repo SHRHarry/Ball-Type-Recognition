@@ -15,7 +15,7 @@ A PyTorch implementation of ball type recognition based on the [MVD](https://git
 Assuming a fresh Anaconda distribution with Python 3.8, you can install the dependencies with:
 
 ```sh
-cd MVD_ball_type_recognition
+cd ball-type-recognition
 pip install -r requirements.txt
 ```
 
