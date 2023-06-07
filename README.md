@@ -2,7 +2,7 @@
 
 - [**[AICUP 2023] Shuttlecock Recognization**](https://aidea-web.tw/topic/cbea66cc-a993-4be8-933d-1aa9779001f8)
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/abs/2212.04500)
+[![paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2212.04500)
 ## Introduction
 
 A PyTorch implementation of ball type recognition based on the [MVD](https://github.com/ruiwang2021/mvd) and [YOLOv8](https://github.com/ultralytics/ultralytics). Thanks to the contributors of these great codebases.
