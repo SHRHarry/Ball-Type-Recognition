@@ -1,7 +1,6 @@
 # 2023 AICUP Badminton Detection - Ball Type Recognition
 
-- [**[AICUP 2023] Shuttlecock Recognization**](https://aidea-web.tw/topic/cbea66cc-a993-4be8-933d-1aa9779001f8)
-
+[![Competition][(https://img.shields.io/badge/AICUP-Competition-blue)](https://aidea-web.tw/topic/cbea66cc-a993-4be8-933d-1aa9779001f8)
 [![paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2212.04500)
 ## Introduction
 
