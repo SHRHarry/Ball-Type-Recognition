@@ -4,7 +4,7 @@
 ## Introduction
 
 A PyTorch implementation of ball type recognition based on the [MVD](https://github.com/ruiwang2021/mvd) and [YOLOv8](https://github.com/ultralytics/ultralytics). Thanks to the contributors of these great codebases.
-<img src="fig/MVD_architecture.png" width = "498" height = "253" alt="result-1" align=center />
+<img src="fig/MVD_architecture.png" width = "747" height = "380" alt="result-1" align=center />
 
 ## Experimentals Results
 
