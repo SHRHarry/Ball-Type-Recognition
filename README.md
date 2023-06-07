@@ -16,7 +16,7 @@ A PyTorch implementation of ball type recognition based on the [MVD](https://git
 ## Experimentals Results
 
 <p align="center">
-<img src="fig/video.gif" width = "900" height = "507" alt="video" />
+<img src="fig/video.gif" width = "747" height = "421" alt="video" />
 </p>
 
 ## Installation
