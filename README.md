@@ -59,6 +59,8 @@ scripts\mvd_vit_small_from_vit_base_teacher_epoch_400\vis.bat
 
 ## References
 
++ https://github.com/FanChiMao/Competition-2023-PyTorch-Badminton.git
+
 + https://github.com/ruiwang2021/mvd
 
 + https://github.com/ultralytics/ultralytics
